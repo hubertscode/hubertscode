@@ -7,5 +7,6 @@
   "browser": ["Firefox", "Opera GX"],
   "editor": ["VSCode", "Eclipse", "Github.dev"],
   "youtube": "https://www.youtube.com/@strayings"
+  "website": "bit.ly/gxmes44"
   }
   ```
